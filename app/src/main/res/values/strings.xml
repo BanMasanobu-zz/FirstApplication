@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="price_label">定価</string>
+    <string name="discount_label">割引率</string>
+    <string name="calculate_button">計算する</string>
+    <string name="price_error">定価を入力しろ！</string>
+    <string name="expression">%1$,3d円の%2$%引きは</string>
+    <string name="result">%1$,3d円です</string>
+    <string name="error_rate">割引率を入力しろコラ！</string>
+</resources>
